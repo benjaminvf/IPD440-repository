@@ -1,2 +1,2 @@
-# IPD440-repository
+# IPD440-sources
 Codigos utilizados en IPD440 - Machine Learning
